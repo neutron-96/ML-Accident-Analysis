@@ -1,6 +1,6 @@
 # Accident Severity Prediction using Machine Learning
 
-![Streamlit App Screenshot](images/streamlit_app.png)
+![Streamlit App Screenshot](images/streamlit_app.PNG)
 
 ## Problem Statement
 Road accidents are a leading cause of injury and death. This project provides an interactive tool that predicts the **likelihood of severe accidents** based on real‑world factors: area type (urban/rural), road surface condition, weather, and speed limit. The goal is to raise awareness and help drivers understand high‑risk scenarios.
